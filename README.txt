@@ -22,5 +22,6 @@ The project code is broken up into 2 files:
 	- Modifies the group_1 variable in people data by grouping all unique groups into a single group. 
 	  Merges new variable into train and test data.
 	- Trains XGBOOST on train data. 
-	- Generates predictions for cases in test data that did not have a matching (group_1, date) with XGBOOST model. 
+	- Generates predictions for cases in test data that did not have a matching (group_1, date) 
+	  with XGBOOST model. 
 	- Writes predictions to CSV for submission.
