@@ -1,8 +1,8 @@
 Thomas Hepner, September 2016:
 
-Project code for the Red Hat Predicting Business Value Kaggle competiton that I developed to place 186th out of 2,271 
-competitors. The final submission was based on a straight average of 4 models: 2 models I generated, and 2 popular
-public scripts in the forums.
+Project code for the Red Hat Predicting Business Value Kaggle competiton that I developed to place 186th 
+out of 2,271 competitors. The final submission was based on a straight average of 4 models: 2 models I 
+generated, and 2 popular public scripts in the forums.
 
 The project code is broken up into 2 files: 
 
